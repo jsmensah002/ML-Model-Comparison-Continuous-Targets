@@ -1,8 +1,8 @@
 Project Goal:
-- Compare the performance of three machine learning models: Logistic Regression (LR), Support Vector Machine (SVM), and Random Forest Classifier (RF) for predicting a continuous outcome. The dataset used focuses on profitability prediction.
+- Compare the performance of three machine learning models: Linear Regression (LR), Support Vector Regression (SVR), and Random Regressor (RFR) for predicting a continuous outcome. The dataset used focuses on profitability prediction.
 
 Method:
-- Built and trained three separate models (LR, SVM, RF) to predict profitability.
+- Built and trained three separate models (LR, SVR, RFR) to predict profitability.
 - Compared model performance using relevant metrics, highlighting accuracy, stability, and suitability for the dataset.
 
 Linear Regression Results (with a balanced class weight):
